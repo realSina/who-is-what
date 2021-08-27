@@ -121,7 +121,7 @@ $MadelineProto->loop(function () use ($MadelineProto) {
 $loops->start();
 $MadelineProto->loop();
 
-function closeConnection($message = "<br><br><br><center><h1>Madeline is running<h2></center>") {
+function closeConnection($message = "<br><br><br><center><h1>Madeline is running</h1></center>") {
     if(php_sapi_name() === 'cli' || isset($GLOBALS['exited'])) {
         return;
     }
