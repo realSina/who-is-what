@@ -1,4 +1,4 @@
-# whois-bot
+# Who is What
 a funny Telegram bot source for tagging random people in Telegram chats to say what they are, with MadelineProto library in PHP
 
 # About
