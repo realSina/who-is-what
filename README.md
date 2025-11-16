@@ -25,7 +25,7 @@ The bot will randomly pick a person from the group and assign them the attribute
 - **Bot**:  @random_user "احتمالا امروز خوشحاله!"
 
 - **User**: `کی از همه خوشگل تره؟`
-- **Bot**: @random_user "احتمالا از همه خوشگل تره!"
+- **Bot**: @random_user "به نظرم از همه خوشگل تره!"
 
 ### Installation:
 1. Clone this repository or download the source code.
