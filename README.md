@@ -10,7 +10,7 @@ A fun and interactive Telegram bot built with the MadelineProto library in PHP. 
    
    **Example**: 
    - `چه کسی امروز خوشحاله؟` (Who is happy today?)
-   - `کسی عاشق چای هست؟` (Who loves tea?)
+   - `کی عاشق چای هست؟` (Who loves tea?)
 
 The bot will randomly pick a person from the group and assign them the attribute or role you're asking about. It’s a great way to create fun interactions and bring some laughter to your chats!
 
@@ -22,10 +22,10 @@ The bot will randomly pick a person from the group and assign them the attribute
 
 ### Example Usage:
 - **User**: `چه کسی امروز خوشحاله؟`
-- **Bot**: @random_user "امروز خوشحاله!"
+- **Bot**:  @random_user "احتمالا امروز خوشحاله!"
 
 - **User**: `کی از همه خوشگل تره؟`
-- **Bot**: @random_user "از همه خوشگل تره!"
+- **Bot**: @random_user "احتمالا از همه خوشگل تره!"
 
 ### Installation:
 1. Clone this repository or download the source code.
