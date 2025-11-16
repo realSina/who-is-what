@@ -35,9 +35,6 @@ The bot will randomly pick a person from the group and assign them the attribute
 5. Configure the bot by editing the settings in the PHP script (e.g., setting your bot token).
 6. Run the bot and start asking fun questions in your group!
 
-### License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Contributing:
 Feel free to fork the repository, make changes, and submit pull requests. If you have suggestions or find bugs, don't hesitate to open an issue!
 
